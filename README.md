@@ -18,3 +18,11 @@
 I'm Naran Gyawali, a **Web and Mobile** Developer, who loves exploring different stuff.
 
 <br />
+**Talking about Personal Stuffs:**
+
+- 🌱 I’m currently exploring my personal project;
+- 👨🏻‍💻 I’m looking to collaborate on kick ass projects;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: Anything is possible;
+- 📫 How to reach me: letters4naran@gmail.com;
+- 🇳🇵 From Nepal
