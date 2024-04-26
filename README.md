@@ -13,6 +13,7 @@
 <br />
 
 I'm Naran Gyawali, a **Web and Mobile** Developer, who loves exploring different stuff.
+<br />
 <a href="https://naran-gyawali.onrender.com/Narayan_CV.pdf">
  click here to view CV
 </a>
